@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [amazon-api-gateway, annotation-api, app-name, assertj, aws-lambda, config4k, github-workflow-docker-registry, github-workflow-graal-docker-registry, graalvm, gradle, h2, hamcrest, http-client, jackson-databind, jib, junit, kotlin, kotlin-application, kotlin-build, management, micronaut-aot, micronaut-build, netty-server, novatec-camunda, novatec-camunda-external-worker, openapi, readme, serialization-bson, shade, slf4j-simple, testcontainers]
